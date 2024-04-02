@@ -2,7 +2,7 @@
 
 Welcome to the Research Code Snippets repository! This repository contains a collection of code snippets covering various tasks and techniques commonly used in research projects. Whether you're working on data analysis, machine learning, computational modeling, or experimental design, you'll find useful code examples to help you get started.
 
-This Library is created by Nebulight[http://www.nebulight.info.gf]
+This Library is created by [Nebulight](http://www.nebulight.info.gf)
 ## Usage
 Each folder in this repository contains code snippets related to a specific category or topic. Simply navigate to the desired folder to find relevant code examples and usage instructions.
 All the following scripts will be in python for ease of understanding and use, each script will be thoroughly documented.
